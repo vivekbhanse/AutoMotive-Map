@@ -28,5 +28,22 @@ It is intended to showcase integration of **mapping SDKs** (like Google Maps / M
 
 ---
 
-## 📁 Project Structure
 
+## 🚀 Getting Started
+
+### 🛠 Requirements
+
+Before you begin, make sure you have:
+
+- Android Studio **Electric Eel / Flamingo or newer**
+- JDK 17+
+- Android SDK installed
+- A device or emulator (phone, or Android Automotive OS emulator)
+
+---
+
+### 📥 Clone the Repo
+
+```bash
+git clone https://github.com/vivekbhanse/AutoMotive-Map.git
+cd AutoMotive-Map
